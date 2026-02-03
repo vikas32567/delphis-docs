@@ -1,0 +1,17 @@
+site_name: Delphis Docs
+site_url: https://vikas32567.github.io/delphis-docs
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+
+nav:
+  - Home: README.md
+  - Terms: TERMS.md
+  - Privacy: PRIVACY.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
