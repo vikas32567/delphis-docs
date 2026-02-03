@@ -1,0 +1,12 @@
+/* Example: Change header colors */
+h1 {
+  color: #3f51b5;
+}
+/* Example: Style the "Terms" table specifically */
+.terms-table {
+  border: 1px solid #eee;
+}
+
+.blue-header { 
+    color: blue; 
+}
