@@ -1,4 +1,4 @@
-# Privacy Policy for Delphis {: .blue-header}
+# Privacy Policy for Delphis
 
 **Effective Date:** January 29, 2026
 
