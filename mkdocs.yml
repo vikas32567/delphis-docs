@@ -1,6 +1,5 @@
 site_name: Delphis Docs
 site_url: https://vikas32567.github.io/delphis-docs
-docs_dir: '.'
 
 theme:
   name: material
@@ -9,7 +8,7 @@ theme:
     accent: indigo
 
 nav:
-  - Home: README.md
+  - Home: index.md
   - Terms: TERMS.md
   - Privacy: PRIVACY.md
 
