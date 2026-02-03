@@ -1,5 +1,6 @@
 site_name: Delphis Docs
 site_url: https://vikas32567.github.io/delphis-docs
+docs_dir: '.'
 
 theme:
   name: material
